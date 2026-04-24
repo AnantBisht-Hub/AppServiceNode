@@ -52,4 +52,4 @@ jobs:
           app-name: 'MyNodeeApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A03146D1C3748808592AB4CCD90F725 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_81E75956E71C4516B568A6243F7B1CA9 }}
